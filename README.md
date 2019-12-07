@@ -69,7 +69,11 @@ public void actionPerformed(ActionEvent e) {
     }  
 ```
 ## 实验结果
-===
+![image](https://github.com/LvvvXinnn/A-/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191207112307.png)
+![image](https://github.com/LvvvXinnn/A-/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191207112318.png)
+![image](https://github.com/LvvvXinnn/A-/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191207112553.png)
+![image](https://github.com/LvvvXinnn/A-/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191207163011.png)
+![image](https://github.com/LvvvXinnn/A-/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191207163027.png)
 ## 实验感想
 在该实验中，我掌握如何编写异常处理、输入输出及窗口等方法
 在这一系列的实验中，我基本掌握了java的编程规则、知识要
